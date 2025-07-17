@@ -25,7 +25,7 @@ This project addresses the challenge of predicting 30-day hospital readmissions 
 | `workflow.md` | Step-by-step technical process |
 
 
-## 🛠Tech Stack
+## Tech Stack
 
 - Python 3.10
 - TensorFlow + Keras
