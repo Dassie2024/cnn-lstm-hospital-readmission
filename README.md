@@ -7,7 +7,7 @@ A hybrid Deep Learning approach for risk prediction using Electronic Health Reco
 ## Medium Article 
 
 Check out my medium article here:  
-[Predicting 30-Day Hospital Readmissions with a CNN-LSTM Model: How Deep Learning Can Help Improve Patient Outcomes]([https://Dassie2024.github.io/image-segmentation-maxflow/](https://medium.com/@hadassah.galapo/predicting-30-day-hospital-readmissions-with-a-cnn-lstm-model-how-deep-learning-can-help-improve-199b60926ecf))
+[Predicting 30-Day Hospital Readmissions with a CNN-LSTM Model: How Deep Learning Can Help Improve Patient Outcomes](https://medium.com/@hadassah.galapo/predicting-30-day-hospital-readmissions-with-a-cnn-lstm-model-how-deep-learning-can-help-improve-199b60926ecf)
 
 ## Project Summary
 
