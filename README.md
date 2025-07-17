@@ -4,6 +4,11 @@ A hybrid Deep Learning approach for risk prediction using Electronic Health Reco
 
 **Author**: Dassie Galapo | Healthcare AI | Deep Learning | Predictive Modeling
 
+## Medium Article 
+
+Check out my medium article here:  
+[https://Dassie2024.github.io/image-segmentation-maxflow/]([https://Dassie2024.github.io/image-segmentation-maxflow/](https://medium.com/@hadassah.galapo/predicting-30-day-hospital-readmissions-with-a-cnn-lstm-model-how-deep-learning-can-help-improve-199b60926ecf))
+
 ## Project Summary
 
 This project addresses the challenge of predicting 30-day hospital readmissions for diabetes patients—a high-risk population—by developing a hybrid CNN-LSTM model that captures both spatial and temporal patterns from Electronic Health Records.
